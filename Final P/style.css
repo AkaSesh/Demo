@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.left {
+    width: 25%;
+}
+.right {
+    width: 25%;
+}
+
+.middle {
+    width: 50%;
+}
+
